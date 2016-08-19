@@ -19,7 +19,7 @@ customize:
         url: images/logo.png
     profile:
         enabled: true # Whether to show profile bar
-        avatar: css/images/avatar2.png
+        avatar: css/images/thumb-default-small.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Trusted Cloud Group
         author_title: Shanghai Key Laboratory of Scalable Computing and Systems
