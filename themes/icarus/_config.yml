@@ -24,7 +24,7 @@ customize:
         author: Trusted Cloud Group
         author_title: Shanghai Key Laboratory of Scalable Computing and Systems
         location: SE@SJTU Shanghai, China
-        follow: https://github.com/ppoffice/
+        follow: http://tcloud.sjtu.edu.cn/
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
