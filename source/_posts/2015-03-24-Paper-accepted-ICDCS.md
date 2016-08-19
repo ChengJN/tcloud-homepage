@@ -1,7 +1,7 @@
 ---
 title: "A paper has been accepted by ICDCS 2015"
 date: 2015-03-24
-tags: [Paper]
+tags: [Paper, ICDCS'15]
 thumbnail:
 banner: 
 ---

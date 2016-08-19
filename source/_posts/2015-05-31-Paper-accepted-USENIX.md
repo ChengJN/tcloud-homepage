@@ -1,7 +1,7 @@
 ---
 title: "A paper has been accepted by USENIX ATC 2015"
 date: 2015-05-31
-tags: [Paper]
+tags: [Paper, ATC'15]
 thumbnail:
 banner: /2015/05/31/Paper-accepted-USENIX/atc15_banner.png
 ---

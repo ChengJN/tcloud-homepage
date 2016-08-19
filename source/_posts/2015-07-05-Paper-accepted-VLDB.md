@@ -1,7 +1,7 @@
 ---
 title: "A paper has been accepted by VLDB 2015"
 date: 2015-07-05
-tags: [Paper]
+tags: [Paper, VLDB'15]
 thumbnail:
 banner:
 ---

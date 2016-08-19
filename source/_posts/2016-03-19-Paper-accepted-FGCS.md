@@ -1,7 +1,7 @@
 ---
 title: "A paper has now been accepted for publication in FGCS"
 date: 2016-03-19
-tags: [Paper]
+tags: [Paper, FGCS'16]
 thumbnail: /2016/03/19/Paper-accepted-FGCS/FGCS.gif
 banner: 
 ---

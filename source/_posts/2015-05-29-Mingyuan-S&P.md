@@ -1,7 +1,7 @@
 ---
 title: "Mingyuan Xia has presented the paper in S&P 2015"
 date: 2015-05-29
-tags: [Paper]
+tags: [Paper, S&P'15]
 thumbnail:
 banner:
 ---

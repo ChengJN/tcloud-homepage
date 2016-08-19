@@ -1,7 +1,7 @@
 ---
 title: "A paper has been accepted by IEEE S&P 2015"
 date: 2015-02-26
-tags: [Paper]
+tags: [Paper, S&P'15]
 thumbnail:
 banner: 
 ---

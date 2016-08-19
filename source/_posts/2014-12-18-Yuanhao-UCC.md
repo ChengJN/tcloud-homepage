@@ -1,7 +1,7 @@
 ---
 title: "Yuanhao Lv has presented a paper in UCC 2014"
 date: 2014-12-18
-tags: [Paper]
+tags: [Paper, UCC'14]
 thumbnail:
 banner:
 ---

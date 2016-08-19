@@ -1,7 +1,7 @@
 ---
 title: "A paper has now been accepted for publication in IJSEKE"
 date: 2015-11-22
-tags: [Paper]
+tags: [Paper, IJSEKE]
 thumbnail:
 banner: 
 ---

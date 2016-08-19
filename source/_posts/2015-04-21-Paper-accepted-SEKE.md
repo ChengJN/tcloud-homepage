@@ -1,7 +1,7 @@
 ---
 title: "Two papers have been accepted by SEKE 2015"
 date: 2015-04-21
-tags: [Paper]
+tags: [Paper, SEKE'15]
 thumbnail:
 banner: 
 ---
