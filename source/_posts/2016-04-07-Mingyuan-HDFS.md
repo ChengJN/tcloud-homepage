@@ -7,4 +7,4 @@ banner: /2016/04/07/Mingyuan-HDFS/Hadoop_logo.png
 ---
 ![Mingyuan's talk](/2016/04/07/Mingyuan-HDFS/talk32.jpg)
 Title: A Tale of Two Erasure Codes in HDFS
-conference: FAST’15 (13th USENIX Conference on File and Storage Technologies)
+Conference: FAST’15 (13th USENIX Conference on File and Storage Technologies)
