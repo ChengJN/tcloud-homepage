@@ -1,7 +1,7 @@
 ---
 title: "Ed Clarke’s talk about Model Checking in Suzhou"
 date: 2013-10-24
-tags: [talk]
+tags: [Talk]
 thumbnail:
 banner: 
 ---
