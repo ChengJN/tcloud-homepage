@@ -5,7 +5,7 @@ tags: [Party]
 thumbnail: 
 banner:
 ---
-Happy birthday to Lu Qiumin(卢秋旻) and Tangzhi Guang(汤之光)！
+Happy birthday to Lu Qiumin(卢秋旻) and Tang Zhiguang(汤之光)！
 
 ![Birthday Party](/2016/10/24/Birthday-Party/party01.jpg)
 
