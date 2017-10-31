@@ -1,5 +1,5 @@
 ---
-title: Tsuchiya's talk
+title: Prof.Tsuchiya from Osaka-U talk about information systems engineering
 date: 2017-09-22
 tags: [Talk]
 thumbnail: 

@@ -1,5 +1,5 @@
 ---
-title: Qian and Liu's talk
+title: Prof.Zhiyun Qian from UCR and Prof.Peng Liu from PSU talk about Android security
 date: 2017-09-20
 tags: [Talk]
 thumbnail: 
