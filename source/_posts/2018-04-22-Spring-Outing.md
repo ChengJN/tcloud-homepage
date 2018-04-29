@@ -5,8 +5,8 @@ tags: [Outing]
 thumbnail: 
 banner:
 ---
-![Autumn Outing](/2018/04/22/Spring-Outing/pic1.jpg)
+![Autumn Outing](/2018/04/22/Spring-Outing/pic1.JPG)
 
 <!--more-->
 
-![Autumn Outing](/2018/04/22/Spring-Outing/pic2.jpg)
+![Autumn Outing](/2018/04/22/Spring-Outing/pic2.JPG)
