@@ -1,4 +1,4 @@
-title: Prof. Zheng from Oracle Labs delivered a talk
+title: Dr. Zheng from Oracle Labs delivered a talk
 date: 2018-04-27
 tags: [Talk]
 thumbnail: 
