@@ -1,5 +1,5 @@
 ---
-title: "Yongqiang Gao's Paper get ESI Highly Cited Paper Award" 
+title: "Yongqiang Gao's Paper is Seleted as the ESI Highly Cited Paper" 
 date: 2018-08-22
 tags: [Paper]
 thumbnail: 
