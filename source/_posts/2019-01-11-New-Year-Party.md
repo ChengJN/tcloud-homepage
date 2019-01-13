@@ -1,5 +1,5 @@
 ---
-title: "2019 New Year Party" 
+title: "Happy New Year’s Party on Jan. 11." 
 date: 2019-01-11
 tags: [Party]
 thumbnail: 
