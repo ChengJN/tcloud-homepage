@@ -5,7 +5,7 @@ workflow "New workflow" {
 
 action "ssh" {
   uses = "maddox/actions/ssh@master"
-  args = "cd ~/tcloud-homepage && hexo g"
+  args = "cd ~/tcloud-homepage && git pull && hexo g"
   secrets = [
     "HOST",
     "USER",
