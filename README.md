@@ -8,4 +8,4 @@
 > hexo s
 ```
 # Publish
-Use github action to publish automaticly. You can edit (./.github/main.workflow)[https://github.com/yanjiasen4/tcloud-homepage/blob/master/.github/main.workflow] to modify publish process.
+Use github action to publish automaticly. You can edit [main.workflow](https://github.com/yanjiasen4/tcloud-homepage/blob/master/.github/main.workflow) to modify publish process.
