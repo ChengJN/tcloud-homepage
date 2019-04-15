@@ -1,5 +1,5 @@
 ---
-title: "Weilun Xiong Giva a Presentation on ICSME 2018" 
+title: "Weilun Xiong Gives a Presentation on ICSME 2018" 
 date: 2018-10-12
 tags: [Paper, ICSME]
 thumbnail: 
